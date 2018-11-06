@@ -1,2 +1,3 @@
 console.log('hello world');
 console.log('welcome to study git, changes from other person and merge conflict');
+console.log('add tag v1.1')
