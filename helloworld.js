@@ -1,2 +1,2 @@
 console.log('hello world');
-console.log('welcome to study git');
+console.log('welcome to study git merge conflict');
